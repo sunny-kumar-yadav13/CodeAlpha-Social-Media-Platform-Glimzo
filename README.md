@@ -1,6 +1,6 @@
-# SApp - Social Media Web Application
+# Social Media Web Application
 
-A modern, full-featured social media platform built with Next.js, React, and Redux Toolkit. SApp provides users with a comprehensive social networking experience including posts, stories, comments, friend requests, and real-time interactions.
+A modern, full-featured social media platform built with Next.js, React, and Redux Toolkit. Social media web application provides users with a comprehensive social networking experience including posts, stories, comments, friend requests, and real-time interactions.
 
 ## 🚀 Features
 
@@ -172,7 +172,7 @@ SApp is fully responsive and optimized for:
 
 ## 📸 Screenshorts
 
-![alt text](public/images/Screenshot.png)
+![image alt]([public/images/Screenshot.png](https://github.com/sunny-kumar-yadav13/CodeAlpha-Social-Media-Platform-Glimzo/blob/5b272827786f3b90b08a4af84559bb48c4bf7490/Screenshot.png))
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
