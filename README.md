@@ -174,8 +174,6 @@ SApp is fully responsive and optimized for:
 
 ![image alt](https://github.com/sunny-kumar-yadav13/CodeAlpha-Social-Media-Platform-Glimzo/blob/b6211a53a33448cbf3ea387403cd27ac5e2aedee/Screenshot.png)
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Built with Next.js and React
